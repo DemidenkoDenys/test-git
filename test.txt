@@ -1,2 +1,2 @@
 test string
-string from Ivan Иванов
+string from Иван Иванов
